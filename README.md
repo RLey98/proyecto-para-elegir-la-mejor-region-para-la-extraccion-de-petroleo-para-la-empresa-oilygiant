@@ -1,1 +1,2 @@
-# proyecto-para-elegir-la-mejor-region-para-la-extraccion-de-petroleo-para-la-empresa-OilyGiant.
+# Modelo para elegir la mejor región para la extracción de petróleo para la
+empresa OilyGiant.
